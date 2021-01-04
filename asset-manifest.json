@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/demo/static/css/main.8945f274.chunk.css",
-    "main.js": "/demo/static/js/main.fc8039e3.chunk.js",
-    "main.js.map": "/demo/static/js/main.fc8039e3.chunk.js.map",
+    "main.css": "/demo/static/css/main.9480cb4d.chunk.css",
+    "main.js": "/demo/static/js/main.b64b3f2f.chunk.js",
+    "main.js.map": "/demo/static/js/main.b64b3f2f.chunk.js.map",
     "runtime-main.js": "/demo/static/js/runtime-main.d40ead34.js",
     "runtime-main.js.map": "/demo/static/js/runtime-main.d40ead34.js.map",
     "static/css/2.b57b7cfd.chunk.css": "/demo/static/css/2.b57b7cfd.chunk.css",
@@ -12,16 +12,21 @@
     "static/js/3.2056e981.chunk.js.map": "/demo/static/js/3.2056e981.chunk.js.map",
     "index.html": "/demo/index.html",
     "static/css/2.b57b7cfd.chunk.css.map": "/demo/static/css/2.b57b7cfd.chunk.css.map",
-    "static/css/main.8945f274.chunk.css.map": "/demo/static/css/main.8945f274.chunk.css.map",
+    "static/css/main.9480cb4d.chunk.css.map": "/demo/static/css/main.9480cb4d.chunk.css.map",
     "static/js/2.113ae4cb.chunk.js.LICENSE.txt": "/demo/static/js/2.113ae4cb.chunk.js.LICENSE.txt",
     "static/media/1.e76b2a8f.jpeg": "/demo/static/media/1.e76b2a8f.jpeg",
     "static/media/2.70318cd6.jpeg": "/demo/static/media/2.70318cd6.jpeg",
     "static/media/3.c92f463c.jpeg": "/demo/static/media/3.c92f463c.jpeg",
     "static/media/4.89273c30.jpeg": "/demo/static/media/4.89273c30.jpeg",
     "static/media/fb.7f1edf03.svg": "/demo/static/media/fb.7f1edf03.svg",
+    "static/media/foot-profile.a1c1ab2c.jpeg": "/demo/static/media/foot-profile.a1c1ab2c.jpeg",
+    "static/media/hoodie.9fd45d01.jpeg": "/demo/static/media/hoodie.9fd45d01.jpeg",
     "static/media/ig.a31b2bcd.svg": "/demo/static/media/ig.a31b2bcd.svg",
     "static/media/in.8861cb0e.svg": "/demo/static/media/in.8861cb0e.svg",
     "static/media/logo.63d7515c.png": "/demo/static/media/logo.63d7515c.png",
+    "static/media/oversize.65b4596e.jpeg": "/demo/static/media/oversize.65b4596e.jpeg",
+    "static/media/panjang.ae5536de.jpeg": "/demo/static/media/panjang.ae5536de.jpeg",
+    "static/media/polo.8118c98e.jpeg": "/demo/static/media/polo.8118c98e.jpeg",
     "static/media/s1.c6b07bda.jpeg": "/demo/static/media/s1.c6b07bda.jpeg",
     "static/media/s2.df2db229.jpeg": "/demo/static/media/s2.df2db229.jpeg",
     "static/media/s3.ae7df846.jpeg": "/demo/static/media/s3.ae7df846.jpeg",
@@ -31,7 +36,7 @@
     "static/js/runtime-main.d40ead34.js",
     "static/css/2.b57b7cfd.chunk.css",
     "static/js/2.113ae4cb.chunk.js",
-    "static/css/main.8945f274.chunk.css",
-    "static/js/main.fc8039e3.chunk.js"
+    "static/css/main.9480cb4d.chunk.css",
+    "static/js/main.b64b3f2f.chunk.js"
   ]
 }
