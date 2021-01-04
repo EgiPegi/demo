@@ -1,0 +1,70 @@
+.post {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    width: 100%;
+    font-size: 18px;
+}
+.post .wrap-post {
+    width: 65%;
+}
+.post .wrap-post .card-post {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    background-color: white;
+    padding: 40px;
+    border-radius: 18px;
+    box-shadow: 4px 3px 14px #0000001f;
+    
+}
+.post .wrap-post .card-post .inp-post {
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+#file[type="file"] {
+	display: none;
+}
+.post .wrap-post .card-post .file-post {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    width: 130px;
+    background-color: teal;
+    cursor: pointer;
+}
+.post .wrap-post .card-post .result {
+    width: calc(25% - 10px);
+}
+.post .wrap-post .card-post .d-post {
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    height: 400px;
+}
+.post .wrap-post .card-post .btn-post {
+    width: 25%;
+    margin-right: 0px;
+    margin-left: auto;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    border: 0;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+}
+.post .wrap-post .card-post .btn-post:disabled  {
+    background-color: gray;
+    cursor: none;
+}
